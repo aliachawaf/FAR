@@ -3,11 +3,14 @@
 
 On étudie ici les mécanismes qui permettent aux programmes de communiquer entre eux.
 
-1. Programmation Concurrente (processus, threads, sémaphore ...)
-2. Communication par Tubes et Signaux
+1. Programmation Concurrente (processus, threads, sémaphore ...)  
+2. Communication par Tubes et Signaux  
 3. Modèles OSI et TCP/IP :
 * Couche physique
 * Couche liaison de données
 * Couche réseau
-* Couche Transport
-4. Programmation réseau : utilisation des Sockets
+* Couche Transport  
+4. Programmation réseau : utilisation des Sockets  
+5. Programmation réseau : protocole HTTP  
+6. Les chaînes de caractères en C  
+7. Remote Procedure Call (RPC)  
